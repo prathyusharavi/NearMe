@@ -143,7 +143,7 @@ both.html
         <p>
             Both Hospital is a 60 bedded hospital at the prominent place in Tirupati.Both Hospital is fully equipped
              with advance technology and medical services are extended round the clock. They are happy to mention that because
-              of their qualitative and economic services their  hospital stood as the best modern hospital in the entire Rayalaseema. 
+              of their qualitative and economic services their  hospital stood as the best modern hospital in the entire Rayalasema. 
         </p>
     </head>
 </html>
