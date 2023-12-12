@@ -151,7 +151,8 @@ both.html
 
 ![image](https://github.com/prathyusharavi/NearMe/assets/147474424/cd7ac3df-b091-4d52-ae10-8b89c669be93)
 
-![image](https://github.com/prathyusharavi/NearMe/assets/147474424/19259564-3e14-4dc4-b801-4dfb7cff917a)
+
+![image](https://github.com/prathyusharavi/NearMe/assets/147474424/1397aa06-7931-4a59-9f61-fff1ae966406)
 
 
 ![image](https://github.com/prathyusharavi/NearMe/assets/147474424/5ccf199e-9588-49bb-bb68-82045ec38cb6)
