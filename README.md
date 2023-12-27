@@ -27,6 +27,7 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and published
 ###PROGRAM
+```
  <html>
     <head>
         <title>
@@ -147,6 +148,7 @@ both.html
         </p>
     </head>
 </html>
+```
 ## OUTPUT
 
 ![image](https://github.com/prathyusharavi/NearMe/assets/147474424/cd7ac3df-b091-4d52-ae10-8b89c669be93)
